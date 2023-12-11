@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISPerechislenieтест",
+  "modelName": "i-i-s-perechislenie-тест",
+  "className": "тест",
+  "nameSpace": "IIS.Perechislenie",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "_11",
+      "type": "i-i-s-perechislenie-перечисление",
+      "flexberryType": "перечисление",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "тестE",
+      "modelName": "i-i-s-perechislenie-тест",
+      "attrs": [
+        {
+          "name": "_11",
+          "caption": "_11",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "тестL",
+      "modelName": "i-i-s-perechislenie-тест",
+      "attrs": [
+        {
+          "name": "_11",
+          "caption": "_11",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

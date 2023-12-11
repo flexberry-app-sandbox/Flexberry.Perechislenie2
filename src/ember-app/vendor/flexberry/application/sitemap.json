@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Perechislenie",
+  "applicationTitle": "Perechislenie",
+  "items": [
+    {
+      "link": null,
+      "menuName": "perechislenie",
+      "caption": "Perechislenie",
+      "title": "Perechislenie",
+      "children": [
+        {
+          "link": "i-i-s-perechislenie-тест-l",
+          "menuName": null,
+          "caption": "Тест",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

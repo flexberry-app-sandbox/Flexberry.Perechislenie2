@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-perechislenie-тест-e",
+  "editForm": "i-i-s-perechislenie-тест-e",
+  "external": false,
+  "caption": "Тест",
+  "name": "IISPerechislenieтестL",
+  "className": "тестL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-perechislenie-тест",
+      "modelProjection": "тестL"
+    }
+  ]
+}
